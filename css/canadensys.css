@@ -1,0 +1,21 @@
+.index_link:hover,
+.index_link:hover h2{
+  color:#a82400;
+  text-decoration: none;
+}
+
+.home_box{
+  min-height:65px;
+  position:relative;
+}
+
+.h2box{
+  position:absolute;
+  bottom:0px;
+  width:100%;
+}
+
+.btn-minheight{
+  min-height:75px;
+}
+
